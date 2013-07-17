@@ -5,6 +5,6 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/jailanigithub/SwipeCell"
   s.author       = { "Jailani" => "jailaninice@gmail.com" }
   s.source       = { :git => "https://github.com/jailanigithub/SwipeCell.git"}
-  s.source_files = 'MCSwipeTableViewCell.h,m'
+  s.source_files = 'SwipeCell'
   s.requires_arc = true
 end  
